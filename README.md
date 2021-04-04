@@ -1,1 +1,0 @@
-# suma-hakaton-2021
