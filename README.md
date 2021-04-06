@@ -21,8 +21,8 @@ eliminating fully correlated attributes, irrelevant attributes, and attributes t
 
 <h1>Files</h1>
 
-
-Android app: `PolluteOrSalute.zip`
+Android app demo: `app_demo.mp4`
+Android app source code: `PolluteOrSalute.zip`
 
 
 Trained model for predicting pollutants saved as state dictionary: `modelPollution_12.58`
