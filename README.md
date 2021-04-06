@@ -21,25 +21,25 @@ eliminating fully correlated attributes, irrelevant attributes, and attributes t
 
 <h1>Files</h1>
 
-Android app demo: `app_demo.mp4`
+Android app demo: `app_demo.mp4` \
 Android app source code: `PolluteOrSalute.zip`
 
 
 Trained model for predicting pollutants saved as state dictionary: `modelPollution_12.58`
 
 
-Model architecture and training: `pollution_model.ipynb`
+Model architecture and training: `pollution_model.ipynb` \
 Model evaluation and AQI(air quality index) calculation based on predictions: `pollution_model_evaluation.ipynb`
 
 
 AQI calculation: `calculate_air_quality_index.ipynb`
 
 
-Meteo data after preprocessing: `podaci_final_VV_popunjeno_bezH.csv`
+Meteo data after preprocessing: `podaci_final_VV_popunjeno_bezH.csv` \
 Pollution data after preprocessing: `pollutionData.csv`
 
 
-Models used for predicting missing values in meteo dataset: `model_fill_Ff.ipynb` and `model_fill_VV.ipynb`
+Models used for predicting missing values in meteo dataset: `model_fill_Ff.ipynb` and `model_fill_VV.ipynb` \
 Filling missing values: `fill_VV.ipynb` and `fill_Ff.ipynb`
 
 
